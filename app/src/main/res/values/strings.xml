@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">PaceKeeper</string>
-    <string name="n_a">N/A</string>
-    <string name="status">Status</string>
-    <string name="speed">Speed</string>
-    <string name="pacekeeper">PaceKeeper</string>
-    <string name="_0_00">0</string>
-</resources>
