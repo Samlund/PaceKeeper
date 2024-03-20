@@ -1,3 +1,5 @@
 public class TestClass {
-    // Test
+    testmethod(){
+        
+    }
 }
